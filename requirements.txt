@@ -1,0 +1,2 @@
+selenium>=4.29.0
+openai>=1.82.0
